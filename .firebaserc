@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "test-app-bb0db"
+  },
+  "targets":{
+    "test-app-bb0db":{
+      "hosting":{
+        "harsh-github":[
+          "harsh-github"
+        ]
+      }
+    }
+  }
+}
